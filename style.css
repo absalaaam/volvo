@@ -1,0 +1,119 @@
+
+
+body{
+    overflow: scroll;
+    overflow-x: hidden;
+    margin-top: 0;
+    font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+.logo{
+    padding-top: 22%;
+    width: 140px;
+}
+.view{
+    height: 720px;
+    background-image: url(Media/banner-2400x720-new.jpg);
+    object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.text-white{
+    margin-top: 18px;
+}
+.navbar{
+    margin-top: -1em;
+}
+.navbar-toggler{
+    border-color: azure;
+    color: azure;
+}
+.title{
+    font-weight: 700;
+    font-size: 52px;
+    margin-top: 6em;
+}
+.head1{
+    font-weight: 550;
+    font-family: Arial, sans-serif;
+    color: #4d4e53;
+    
+}
+.head1 h2{
+    font-weight: 600;
+    margin-top: -13px;
+}
+.head1 p{
+    font-size: 13px;
+}
+.img-text{
+    position: absolute;
+    bottom: 0%;
+    padding-left: 8%;
+    color: #fff;
+
+}
+.sub-head{
+    font-size: .9em;
+    font-weight: 500;
+
+}
+.head2{
+    font-size: 2em;
+    font-weight: 700;
+}
+.videop{
+    width: 97.5%;
+    margin-top: 6em;
+    margin-left: 1em;
+    overflow: hidden;
+}
+.btn1{
+    width: 35%;
+    height: 50px;
+}
+.btn2{
+    margin-left: 2%;
+    width: 35%;
+    height: 50px;
+}
+footer{
+    background-color: #131313;
+    margin-top: 3em;
+}
+.footer-list{
+    list-style-type: none;
+    text-decoration: none;
+    padding-top: 5em;
+    padding-left: 0%;
+}
+.footer-list p{
+    font-size: 14px;
+    color: #ffff;
+    font-weight: 600;
+}
+.list a{
+    color: #fff;
+    font-size: 28px;
+    text-decoration: none;
+}
+.copy-right{
+    font-size: 12px;
+    color: #4d4e53;
+    text-align: right;
+    margin-bottom: 6em;
+    margin-top: 6em;
+}
+.copy-right button{
+    border: 0em;
+    color: #fff;
+    background-color: #131313;
+}
+.footer-list li a{
+    text-decoration: none;
+    color: #fff;
+}
+.footer-list li a:hover{
+    color: #4d4e53;
+} 
+
